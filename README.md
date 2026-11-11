@@ -1,9 +1,10 @@
 ## Welcome to my World
 
- <div>
- <a href="https://github.com/CarlosEduardoFaria">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosEduardoFaria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardoFaria&layout=compact&langs_count=16&theme=dracula"/>
+<div>
+<a href="https://github.com/CarlosEduardoFaria">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=CarlosEduardoFaria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardoFaria&layout=compact&langs_count=16&theme=dracula" alt="Linguagens mais usadas" />
+</a>
 <div>
 
 <div style="display: inline_block"><br>
