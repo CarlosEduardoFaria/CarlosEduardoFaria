@@ -7,24 +7,20 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+<img align="center" alt="Spring Security" height="30" width="40" src="https://shields.io">
  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
 <img align="center" alt="Kubernets" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg">
  <img align="center" alt="Swagger" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg">
-</div>
   <img align="center" alt="DataDog" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/datadog/datadog-original.svg">
-</div>
    <img align="center" alt="Hibernate" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg">
-</div>
    <img align="center" alt="Hibernate" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg">
-</div>
    <img align="center" alt="Jenkins" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
-</div>
    <img align="center" alt="Kali" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kalilinux/kalilinux-original.svg">
-</div>
  <img align="center" alt="Burp-Suite" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/burpsuite/burpsuite-line.svg">
+ <img align="center" alt="RedHat" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg">
 </div>
   
   ##
