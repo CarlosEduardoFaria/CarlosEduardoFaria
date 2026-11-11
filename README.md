@@ -5,22 +5,24 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardoFaria&layout=compact&langs_count=16&theme=dracula"/>
 <div>
 <div style="display: inline_block"><br>
+<div style="display: inline-block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-<img align="center" alt="Spring Security" height="30" width="40" src="https://jsdelivr.net">
- <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Spring Security" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" style="filter: hue-rotate(140deg) brightness(0.8) contrast(1.2);">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
-<img align="center" alt="Kubernets" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg">
- <img align="center" alt="Swagger" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg">
-  <img align="center" alt="DataDog" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/datadog/datadog-original.svg">
-   <img align="center" alt="Hibernate" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg">
-   <img align="center" alt="Jenkins" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
-   <img align="center" alt="Kali" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kalilinux/kalilinux-original.svg">
- <img align="center" alt="Burp-Suite" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/burpsuite/burpsuite-line.svg">
- <img align="center" alt="RedHat" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://githubusercontent.com">
+  <img align="center" alt="Kubernetes" height="30" width="40" src="https://githubusercontent.com">
+  <img align="center" alt="Swagger" height="30" width="40" src="https://githubusercontent.com">
+  <img align="center" alt="DataDog" height="30" width="40" src="https://githubusercontent.com">
+  <img align="center" alt="Hibernate" height="30" width="40" src="https://githubusercontent.com">
+  <img align="center" alt="Jenkins" height="30" width="40" src="https://githubusercontent.com">
+  <img align="center" alt="Kali" height="30" width="40" src="https://githubusercontent.com">
+  <img align="center" alt="Burp-Suite" height="30" width="40" src="https://githubusercontent.com">
+  <img align="center" alt="RedHat" height="30" width="40" src="https://githubusercontent.com">
 </div>
+
   
   ##
  
